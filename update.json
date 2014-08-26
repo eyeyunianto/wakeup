@@ -1,4 +1,4 @@
 {
-  "win" : { "shell" : "1.1" , "build" : "2014-08-23" , "version" : "3.2.1", "link" : "http://eyeyunianto.github.io/wakeup/update/win/2014-08-23.zip", "download" : "http://dl.moco.co.id/moco-v3.2.1.exe"},
-  "mac" : { "shell" : "1.1" , "build" : "2014-08-27" , "version" : "3.2.2", "link" : "http://eyeyunianto.github.io/wakeup/update/mac/2014-08-27.zip", "download" : "http://dl.moco.co.id/moco-v3.2.1.dmg"}
+  "win" : { "shell" : "1.1" , "build" : "2014-08-27" , "version" : "3.2.2", "link" : "http://eyeyunianto.github.io/wakeup/update/win/2014-08-27.zip", "download" : "http://dl.moco.co.id/moco-v3.2.2.exe"},
+  "mac" : { "shell" : "1.1" , "build" : "2014-08-27" , "version" : "3.2.2", "link" : "http://eyeyunianto.github.io/wakeup/update/mac/2014-08-27.zip", "download" : "http://dl.moco.co.id/moco-v3.2.2.dmg"}
 }
