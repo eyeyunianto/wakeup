@@ -1,4 +1,4 @@
 {
-  "win" : { "shell" : "1.2" , "build" : "2014-11-17" , "version" : "3.2.9", "link" : "http://dl.moco.co.id/update/win/moco-update-v3.2.9.exe", "download" : "http://dl.moco.co.id/moco-v3.2.9.exe"},
-  "mac" : { "shell" : "1.1" , "build" : "2014-11-17" , "version" : "3.2.9", "link" : "http://dl.moco.co.id/update/mac/2014-11-17.zip", "download" : "http://dl.moco.co.id/moco-v3.2.9.dmg"}
+  "win" : { "shell" : "1.2" , "build" : "2014-11-30" , "version" : "3.3.0", "link" : "http://dl.moco.co.id/update/win/moco-update-v3.3.0.exe", "download" : "http://dl.moco.co.id/moco-v3.3.0.exe"},
+  "mac" : { "shell" : "1.1" , "build" : "2014-11-30" , "version" : "3.3.0", "link" : "http://dl.moco.co.id/update/mac/2014-11-30.zip", "download" : "http://dl.moco.co.id/moco-v3.3.0.dmg"}
 }
